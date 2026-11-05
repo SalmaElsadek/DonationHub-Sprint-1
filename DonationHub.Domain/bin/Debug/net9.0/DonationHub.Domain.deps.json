@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "DonationHub.Domain/1.0.0": {
+        "runtime": {
+          "DonationHub.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DonationHub.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\selsa\OneDrive\Desktop\DonationHub\DonationHub.Domain\bin\Debug\net9.0\DonationHub.Domain.deps.json
+C:\Users\selsa\OneDrive\Desktop\DonationHub\DonationHub.Domain\bin\Debug\net9.0\DonationHub.Domain.dll
+C:\Users\selsa\OneDrive\Desktop\DonationHub\DonationHub.Domain\bin\Debug\net9.0\DonationHub.Domain.pdb
+C:\Users\selsa\OneDrive\Desktop\DonationHub\DonationHub.Domain\obj\Debug\net9.0\DonationHub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selsa\OneDrive\Desktop\DonationHub\DonationHub.Domain\obj\Debug\net9.0\DonationHub.Domain.AssemblyInfoInputs.cache
+C:\Users\selsa\OneDrive\Desktop\DonationHub\DonationHub.Domain\obj\Debug\net9.0\DonationHub.Domain.AssemblyInfo.cs
+C:\Users\selsa\OneDrive\Desktop\DonationHub\DonationHub.Domain\obj\Debug\net9.0\DonationHub.Domain.csproj.CoreCompileInputs.cache
+C:\Users\selsa\OneDrive\Desktop\DonationHub\DonationHub.Domain\obj\Debug\net9.0\DonationHub.Domain.dll
+C:\Users\selsa\OneDrive\Desktop\DonationHub\DonationHub.Domain\obj\Debug\net9.0\refint\DonationHub.Domain.dll
+C:\Users\selsa\OneDrive\Desktop\DonationHub\DonationHub.Domain\obj\Debug\net9.0\DonationHub.Domain.pdb
+C:\Users\selsa\OneDrive\Desktop\DonationHub\DonationHub.Domain\obj\Debug\net9.0\ref\DonationHub.Domain.dll

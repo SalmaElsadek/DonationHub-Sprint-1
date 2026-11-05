@@ -1,0 +1,9 @@
+# .NET Core / Visual Studio Gitignore
+/[Bb]in/
+/[Oo]bj/
+.vs/
+*.user
+*.suo
+appsettings.Development.json
+*filelist.json
+.vscode/
