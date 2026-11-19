@@ -1,6 +1,6 @@
 # .NET Core / Visual Studio Gitignore
-/[Bb]in/
-/[Oo]bj/
+[Bb]in/
+[Oo]bj/
 .vs/
 *.user
 *.suo
